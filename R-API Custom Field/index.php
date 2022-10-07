@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: R-API Custom Filed
+Plugin Name: R-API Custom fields
 Plugin URI: 
 Description: This plugin has been generated for the rest api custom field manage.
 Author: Shubham Raturi
